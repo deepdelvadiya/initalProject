@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImdbMovieApp</string>
+    <string name="description">moviePoster</string>
+    <string name="errorLoadingPoster">Something want wrong</string>
+</resources>
